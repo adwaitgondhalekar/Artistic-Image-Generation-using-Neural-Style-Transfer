@@ -1,4 +1,4 @@
-# Artistic-Image-Generation-using-Neural-Style-Transfer
+# Artistic-Image-Generation-using-Neural-Style-Transfer BE Project
 
 ## In this modern day, with advancement in Imaging technology immeasurable amount of images/pictures are generated per day. Photographs show the content as it is and what if we want this photographs to look as it was a piece of art?
 
